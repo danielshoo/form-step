@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "bem-mod": "^1.1.0"
-  }
+  },
+  "name": "form-step",
+  "description": "A module for grouping elements of a form and managing whether that group is displayed or not based on other observed FormSteps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielshoo/form-step.git"
+  },
+  "author": "Daniel Shuster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielshoo/form-step/issues"
+  },
+  "homepage": "https://github.com/danielshoo/form-step#readme"
 }
